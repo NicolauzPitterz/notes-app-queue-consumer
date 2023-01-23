@@ -22,4 +22,4 @@ class Listener {
   }
 }
 
-export default Listener;
+module.exports = Listener;
