@@ -1,4 +1,5 @@
 require("dotenv").config();
+
 const amqp = require("amqplib");
 const NotesService = require("./NotesService");
 const MailSender = require("./MailSender");
